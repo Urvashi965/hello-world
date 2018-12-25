@@ -1,3 +1,3 @@
 # hello-world
 Hi humans!!
-i am currently working on html and css.
+I am currently working on html and css.
