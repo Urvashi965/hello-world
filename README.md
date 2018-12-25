@@ -1,2 +1,3 @@
 # hello-world
-my first one
+Hi humans!!
+I am currently working on html and css.
